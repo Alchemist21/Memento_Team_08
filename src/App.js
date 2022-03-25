@@ -1,6 +1,5 @@
 import "./App.css";
 import Home from "./Home";
-import Name from "./Components/Name";
 import ParticleBackground from "./Components/ParticleBackground";
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 

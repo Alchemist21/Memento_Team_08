@@ -129,7 +129,7 @@ const ParticleBackground = () => {
       }}/>
   
    <h1 style={{ color: "white", position: "absolute", top: "20%", left: "41%" }}> MEMENTO </h1>
-   <a href="/Home"><h1 style={{ color: "white", position: "absolute", top: "30%", left: "40%"}}> START HERE</h1>
+   <a href="/Home"><h1 style={{ color: "white", position: "absolute", top: "30%", left: "40%"}}> START HERE</h1> 
    </a> 
     </div>
 );
